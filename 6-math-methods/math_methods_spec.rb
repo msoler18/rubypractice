@@ -6,7 +6,7 @@ describe "add" do
   end
 
   it "adds two numbers" do
-    expect(add(2,3)).to eq(5)
+    expect(add(7,3)).to eq(10)
   end
 end
 
